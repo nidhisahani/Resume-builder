@@ -1,0 +1,17 @@
+
+export const DELETE_RESUME='DELETE_RESUME';
+
+export const SET_PERSONAL_INFO='SET_PERSONAL_INFO'
+
+export const SET_CONTACT = 'SET_CONTACT'
+
+export const SET_EDUCATION = 'SET_EDUCATION'
+
+export const SET_EXPERIENCE= 'SET_EXPERIENCE'
+
+export const SET_SKILLS= 'SET_SKILLS'
+
+export const SET_TEMPLATE= 'SET_TEMPLATE'
+
+export const SAVE_RESUME= 'SAVE_RESUME';
+export const EDIT_RESUME='EDIT_RESUME';
