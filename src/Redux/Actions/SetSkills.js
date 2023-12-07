@@ -1,9 +1,11 @@
 import {SET_SKILLS} from './ActionType'
 
-
-export const setSkills=(skills)=>{
+//send skills to redux state
+const setSkills=(skills)=>{
     return{
         type:SET_SKILLS,
         payload:skills
     }
 }
+
+export default setSkills;
