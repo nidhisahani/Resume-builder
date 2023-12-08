@@ -1,5 +1,6 @@
 {
   "name": "resume-builder",
+  "homepage": "https://nidhisahani.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
